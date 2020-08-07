@@ -25,11 +25,11 @@ cookiecutter http://github.com/kevincar/cookiecutter-lab-project
 │
 ├── presentations
 │   │
-│	├── abstracts
+│   ├── abstracts
 │   │
 │   ├── posters
 │   │
-│	└── figures         # Figures for this project can eithe be project specific, or links to figures owned by the
+│   └── figures         # Figures for this project can eithe be project specific, or links to figures owned by the
 │                       # project's experiments
 │
 ├── ref                 # Directory for BibTex, EndNote, or other reference files for reference managment
