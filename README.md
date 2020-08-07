@@ -40,3 +40,6 @@ cookiecutter http://github.com/kevincar/cookiecutter-lab-project
 │
 └── exp                 # Folder that houses all experiments used in the project
 ```
+
+[See the exp cookiecutter](https://github.com/kevincar/cookiecutter-exp) for creating new experiments to place in the `exp`
+folder
