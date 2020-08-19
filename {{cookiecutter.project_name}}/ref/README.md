@@ -1,1 +1,1 @@
-# {{cookieproject.project_name}} references
+# {{cookiecutter.project_name}} references
