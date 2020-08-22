@@ -20,9 +20,6 @@ cookiecutter http://github.com/kevincar/cookiecutter-lab-project
 ```
 {{project-name}}        # projects each get their own folder <- these can be git repos
 │
-├── NOTES.md            # This file holds daily notes and records for the project. This is lab member-specific and
-│                       # should not be committed to the online repository
-│
 ├── presentations
 │   │
 │   ├── abstracts
